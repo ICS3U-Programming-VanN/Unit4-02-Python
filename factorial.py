@@ -19,6 +19,7 @@ def main():
 
     # Checks for exceptions
     try:
+        # Converts user number to integer
         user_number = int(user_number_string)
 
     # In the event of an exception
